@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+.contato > h4{
+    font-family: var(--font-display);
+    font-size: 64px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    margin: 50px;
+}
+
+.informações_mapa{
+    margin: 60px;
+    display: flex;
+    flex-direction: row;
+}
+
+.informação > p{
+    margin: 40px;
+}
