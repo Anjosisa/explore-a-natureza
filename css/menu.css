@@ -10,7 +10,6 @@
 
 .menu ul{
     background-color: var(--background-green);
-    display: flex;
     gap: 10px;
     font-family: 'poppins';
     font-size: 12px;

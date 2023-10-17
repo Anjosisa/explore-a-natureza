@@ -17,8 +17,6 @@ imagens.forEach((item, indice) => {
     })
 })
 
-
-
 // -----------------------------------------------------------------------------------------------------------
 
 const pergunta = document.querySelectorAll('.js-informações .pergunta')
